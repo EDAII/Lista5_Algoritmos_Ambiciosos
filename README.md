@@ -1,4 +1,4 @@
-# Lista5_Algoritmos_Ambiciosos
+# Lista 5 - Algoritmos Ambiciosos
 
 Aluno | Matrícula
 ----- | ---------
@@ -7,5 +7,4 @@ Rômulo Vinícius de Souza | 15/0147601
 
 Arquivo | Tipo
 ------- | -----
-|
-|
+lista5.cpp | Interval Scheduling
